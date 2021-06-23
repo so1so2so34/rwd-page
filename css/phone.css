@@ -1,0 +1,52 @@
+
+*{box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;}
+.all-left{
+    width: 100%;
+    height: 70px;
+    background-color: cornsilk;
+    padding: 5px;
+
+}
+
+.menu{
+    width: 40px;
+    height: 60px;
+    background-color: darkcyan;
+    float: left;
+    margin-right:calc(50% - 75px) ;
+
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    background-color: lightblue;
+    float: left;
+}
+.all-right{
+    width: 100%;
+    height: auto;
+}
+.all-right-section{
+    width: 100%;
+    height: auto;
+}
+.section-btm{
+    width: 100%;
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+
+}
+.st1{
+    background-image: url(./img/800_0a8d6f3fac733f4ee62b878b5f08251c.jpg);
+}
+.st2{
+    background-image: url(./img/835DF367-12DB-5B36-8E95-4B1FE7CF223A.jpg);
+}
+.st3{
+    background-image: url(./img/plan_201810011252101_b.jpg);
+}
